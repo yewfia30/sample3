@@ -14,6 +14,7 @@
 		17A2FB591CA41B5300A44ACA /* sample3.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 17A2FB571CA41B5300A44ACA /* sample3.xcdatamodeld */; };
 		17A2FB5B1CA41B5300A44ACA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 17A2FB5A1CA41B5300A44ACA /* Assets.xcassets */; };
 		17A2FB5E1CA41B5300A44ACA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17A2FB5C1CA41B5300A44ACA /* LaunchScreen.storyboard */; };
+		17A2FB661CA41F4B00A44ACA /* a.png in Resources */ = {isa = PBXBuildFile; fileRef = 17A2FB651CA41F4B00A44ACA /* a.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		17A2FB5A1CA41B5300A44ACA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		17A2FB5D1CA41B5300A44ACA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		17A2FB5F1CA41B5300A44ACA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		17A2FB651CA41F4B00A44ACA /* a.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = a.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				17A2FB4F1CA41B5300A44ACA /* AppDelegate.m */,
 				17A2FB511CA41B5300A44ACA /* ViewController.h */,
 				17A2FB521CA41B5300A44ACA /* ViewController.m */,
+				17A2FB651CA41F4B00A44ACA /* a.png */,
 				17A2FB541CA41B5300A44ACA /* Main.storyboard */,
 				17A2FB5A1CA41B5300A44ACA /* Assets.xcassets */,
 				17A2FB5C1CA41B5300A44ACA /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 				17A2FB5E1CA41B5300A44ACA /* LaunchScreen.storyboard in Resources */,
 				17A2FB5B1CA41B5300A44ACA /* Assets.xcassets in Resources */,
 				17A2FB561CA41B5300A44ACA /* Main.storyboard in Resources */,
+				17A2FB661CA41F4B00A44ACA /* a.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
